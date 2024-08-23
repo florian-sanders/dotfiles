@@ -1,0 +1,5 @@
+.direnv/
+.envrc
+.lazy.lua
+.helix/
+.zed/

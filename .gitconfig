@@ -1,0 +1,17 @@
+# This is Git's per-user configuration file.
+[user]
+name = "Florian Sanders"
+email = "sanders.florian@gmail.com"
+
+[core]
+editor = "nvim"
+excludesFile = "~/.gitignore"
+
+[init]
+defaultBranch = "main"
+
+[push]
+autoSetupRemote = true
+
+[pull]
+rebase = true

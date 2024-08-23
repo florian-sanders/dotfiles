@@ -1,0 +1,117 @@
+exit
+ls
+sudo pacman -S clever-tools
+paru clever-tools
+clever diag
+cd dotfiles/
+ls
+cp ~/.config/nushell/ .
+ls
+nvim .
+echo $VOLTA_HOME
+ls
+ls -a
+cd .volta
+ls
+npm i -g neovim
+volta
+nvim .
+cd dotfiles/
+ls
+nvim .
+echo $VOLTA_HOME
+echo $PATH
+echo $env.PATH
+echo $env.HOME
+echo $env.HOME_VOLTA
+ls
+cd ..
+ls
+cd dotfiles/
+nvim .
+stow .
+cd 
+cd .config/
+ls
+nvim nushell/
+ww
+reboot
+ls
+cd dotfiles/
+nvim nushell/
+ls
+nvim .
+ww
+scope aliases
+help aliases
+nvim .
+cd dotfiles/
+nvim .
+ww
+nn
+ncfg
+cd 
+ls
+cd dotfiles/
+ls
+nvim .
+ncfg
+..
+nvim .
+cfg
+cd dotfiles/
+nvim .
+ncfg
+cd dotfiles/
+cfg
+nvim .
+cfg
+ls
+ww
+cd ..
+cd dotfiles/
+ww
+clever-components/
+npm i
+volta
+$nu.env-path
+ncfg
+cfg
+ww
+clever-components/
+ls
+cfg
+cd ~/dotfiles/
+cd .config/
+ls
+nushell/
+ls
+git clone git@github.com:nushell/nu_scripts.git
+nvim .
+gst
+ls
+rm -rf nu_scripts/
+cd ..
+cd /usr/share/cachyos-zsh-config/
+ls
+clever 
+clever scale 
+clever scale help
+clever scale --help
+cfg
+sudo pacman -Ss zsh
+nvim cachyos-config.zsh
+cd /usr/share/
+ls
+cd zsh/
+ls
+cd site-functions/
+ls
+nvim _clever
+chsh
+ls
+cd Projects/clever-components/; npm i;
+cd 
+-
+chsh fish
+chsh
