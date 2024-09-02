@@ -4,14 +4,9 @@ name = "Florian Sanders"
 email = "sanders.florian@gmail.com"
 signingkey = D39E596F7894D42D
 
-[user "commit"]
-gpgSign = true
-
-[user "tag"]
-gpgSign = true
-
 [gpg]
 program = gpg
+
 [core]
 editor = "nvim"
 excludesFile = "~/.gitignore"
@@ -24,3 +19,10 @@ autoSetupRemote = true
 
 [pull]
 rebase = true
+
+[commit]
+	gpgSign = true
+
+[tag]
+	gpgSign = true
+
